@@ -1,0 +1,2 @@
+this is a text file of the git
+I am going to commit again after changing the file
